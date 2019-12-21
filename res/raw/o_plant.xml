@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<models>
+  <model>
+    <id>9</id>
+    <colors>
+      <red>222</red>
+      <green>95</green>
+      <blue>38</blue>
+      <alpha>255</alpha>
+    </colors>
+  </model>
+  <model>
+    <id>10</id>
+    <colors>
+      <red>74</red>
+      <green>16</green>
+      <blue>0</blue>
+      <alpha>255</alpha>
+    </colors>
+  </model>
+  <model>
+    <id>11</id>
+    <colors>
+      <red>183</red>
+      <green>154</green>
+      <blue>1</blue>
+      <alpha>255</alpha>
+    </colors>
+  </model>
+  <model>
+    <id>12</id>
+    <colors>
+      <red>81</red>
+      <green>190</green>
+      <blue>24</blue>
+      <alpha>255</alpha>
+    </colors>
+  </model>
+</models>

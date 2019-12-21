@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<models>
+  <model>
+    <id>35</id>
+    <colors>
+      <red>0</red>
+      <green>230</green>
+      <blue>230</blue>
+      <alpha>255</alpha>
+    </colors>
+    <texture>20</texture>
+  </model>
+</models>

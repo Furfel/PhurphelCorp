@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+  <person>
+    <frame>15</frame>
+    <sleep>300</sleep>
+    <frame>16</frame>
+    <sleep>25</sleep>
+    <frame>17</frame>
+    <sleep>40</sleep>
+    <frame>18</frame>
+    <sleep>60</sleep>
+  </person>
+  <person>
+    <frame>1</frame>
+    <frame>5</frame>
+    <frame>5</frame>
+    <frame>3</frame>
+    <sleep>100</sleep>
+    <frame>8</frame>
+    <frame>4</frame>
+    <frame>6</frame>
+    <frame>6</frame>
+    <frame>2</frame>
+    <sleep>100</sleep>
+    <frame>8</frame>
+  </person>
+  <person>
+    <frame>0</frame>
+    <frame>13</frame>
+    <frame>9</frame>
+    <frame>9</frame>
+    <frame>3</frame>
+    <frame>10</frame>
+    <frame>11</frame>
+    <frame>12</frame>
+    <sleep>300</sleep>
+    <frame>14</frame>
+  </person>
+</persons>

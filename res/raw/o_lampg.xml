@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<models>
+  <model>
+    <id>15</id>
+    <colors>
+      <red>140</red>
+      <green>250</green>
+      <blue>140</blue>
+      <alpha>220</alpha>
+    </colors>
+  </model>
+  <model>
+    <id>16</id>
+    <colors>
+      <red>150</red>
+      <green>150</green>
+      <blue>150</blue>
+      <alpha>255</alpha>
+    </colors>
+  </model>
+</models>

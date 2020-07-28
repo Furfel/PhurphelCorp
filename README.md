@@ -8,7 +8,6 @@ Uses GLES 1.0. Loads only triangles from `.obj` files. Everything else is define
 Some light scripting is also available with XML.
 [**Video presentation**](https://www.dropbox.com/s/gkse31fi43lw78b/device-2020-07-28-162452.mp4?dl=0)
 
+*Apparently the emulator or the new Android doesn't support PNG transparency and ETC1 textures :/.*
 ![Screenshot](/phurphel1.png)
 ![Screenshot](/phurphel2.png)
-
-Apparently the emulator or the new Android doesn't support PNG transparency and ETC1 textures :/.
